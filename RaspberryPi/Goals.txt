@@ -1,0 +1,5 @@
+The Raspberry pi code must be responsible for interacting with the arduino code and, that way:
+  -Dsiplaying in the LCD screen a GUI Tkinter app that will interact with the arduino info and a button that enable the self-driving mode;
+  -Using the info from the ultrasound arduino sensor, be able to self-drive the robot;
+
+Therefore, the robot must act in a intelligent way, both by its movements and by its face "reactions".
