@@ -3,6 +3,7 @@
 This is an Arduino and Raspberry Pi project that wil be creating a dog-like robot that will have realistic movements and reactions (via an LCD screen).
 
 Materials Used:
+
   -Arduino Mega 2560;
   
   -Raspberry Pi 3;
