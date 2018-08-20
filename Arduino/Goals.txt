@@ -1,6 +1,6 @@
 The arduino code must be responsible of controlling:
 	-4 DC motors via a joystick;
-	-1 ultrasound sensor;
+	-1 ultrasonic sensor;
 
 The arduino code must, then, be connected to the raspberry pi.
 	
