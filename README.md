@@ -12,7 +12,7 @@ Materials Used:
   
   -1 Arduino joystick;
   
-  -1 Ultrasound sensor;
+  -1 Ultrasonic sensor;
   
   -1 3.5 inches touch Raspberry Pi display;
   
