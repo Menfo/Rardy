@@ -20,4 +20,4 @@ Materials Used:
   
   -1 Mini Breadboard;
   
-  
+  -2 L298N H-Bridge for arduino-DCMotor communication;
